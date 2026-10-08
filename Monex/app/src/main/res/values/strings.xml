@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Monex">Monex</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752703372104",
+    "project_id": "monex-1815e",
+    "storage_bucket": "monex-1815e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752703372104:android:43c4be55d3c9dc5898d17d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWMqUEKVBAQrHVWge1JxF3vFtTeGLBes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
